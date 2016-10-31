@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8" />
+        <title>Документ без названия</title>
+<style>
+
+#logo{
+    height: 50px;
+}
+#leftcol{
+    height: 1000px;
+}
+#abzac{
+	margin-left: 30px;
+	font-style:italic;
+}
+#rightcol{
+    height: 1000px;
+}
+#share{
+    height: 20px;
+}
+#copyright{
+	background-color:rgb(193,205,205);
+}
+
+</style>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header"></div>
+        <div id="sidebar"></div>
+        <div id="content"></div>
+        <div id="footer"></div>
+    </div>
+</body>
+</html>

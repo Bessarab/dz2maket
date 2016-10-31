@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Minimo</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+  </head>
+  <body>
+
+    <header>
+		<div id="logo">
+		<table width="100%" cellspacing="30">
+		<tr>
+		  <td width="40%"><h1>MINIMO</h1></td>
+		  <td width="15%"><a href="#">LIFESTYLE</a></td>
+		  <td width="15%"><a href="#">PHOTODIARY</a></td>
+		  <td width="15%"><a href="#">MUSIC</a></td>
+		  <td width="15%"><a href="#">TRAVEL</a></td>
+		</tr>
+		<table width="100%" cellspacing="30">
+		<tr>
+		<td>
+		<img src="Ris1.png" alt="ladies posing" width="100%">
+		</td>
+		</tr>
+		</table>
+		</div>
+    </header>
+
+		<table width=100% cellspacing="30">
+		<tr>
+			<td id="leftcol" width="67%" valign="top">
+				<h4>PHOTODIARY</h4>
+				<h2>The perfect weekend getaway</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <strong>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,</strong> totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+				<img src="Ris2.png" alt="band">
+				<img src="Ris3.png" alt="band">
+				<img src="Ris4.png" alt="band">
+				<div id="abzac">
+				<p>"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."</p>
+				</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <strong>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</strong> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+			</td>
+			<td id="spacer" width="3%" valign="top"></td>
+			<td id="rightcol" width="30%" valign="top">
+				<img src="Coffee.png" alt="coffee">
+				<h2>About me</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+				<p>
+				<a href="https://www.facebook.com/"><img src="Facebook.png" alt="Facebook"></a>
+				<a href="https://www.instagram.com/"><img src="Instagram.png" alt="Insta"></a>
+				<a href="https://ru.pinterest.com/"><img src="Pinterest.png" alt="Pinterest"></a>
+				</p>
+				<h3>TOP POSTS</h3>
+				<ul>
+				<li><h3>A day exploring the Alps</h3>
+				<p><a href="#">24 comments</a></p></li>
+				<li><h3>American dream</h3>
+				<p><a href="#">19 comments</a></p></li>
+				<li><h3>Cold winter days</h3>
+				<p><a href="#">15 comments</a></p></li>
+				</ul>
+				<img src="Banner.png" alt="lady">
+			</td>
+		</tr>
+		</table>
+
+    <footer>
+		<table width="100%" align="center" cellspacing="10">
+		<tr>
+		<div id="Share">
+		  <td align="center">
+		  <p>SHARE
+          <a href="https://www.facebook.com/"><img src="Facebook.png" alt="Facebook"></a>
+          <a href="https://twitter.com/"><img src="Twitter.png" alt="Twitter"></a>
+          <a href="https://www.google.ru/"><img src="Google.png" alt="Google"></a>
+		  <a href="https://www.tumblr.com/"><img src="Т.png" alt="Tumblr"></a>
+		  <a href="https://ru.pinterest.com/"><img src="Pinterest.png" alt="Pinterest"></a>
+		  </p>
+		  </td>
+		</div>
+		</tr>
+		</table>
+		<div id="copyright">
+		<table width="100%" cellspacing="10">
+		<tr>
+		  <td width="50%" align="left">
+		  <p>
+		  <a href="#">Terms and conditions</a>
+          <a href="#">Privacy</a>
+		  </p>
+		  </td>
+		  <td id="spacer" width="3%" valign="top">
+		  </td>
+		  <td width="47%" align="right">
+		  <p>Follow
+		  <a href="https://www.facebook.com/"><img src="Facebook.png" alt="Facebook"></a>
+		  <a href="https://twitter.com/"><img src="Twitter.png" alt="Twitter"></a>
+		  <a href="https://www.instagram.com/"><img src="Instagram.png" alt="Insta"></a>
+		  </p>
+		  </td>
+		</tr>
+		</table>
+		</div>
+    </footer>
+  </body>
+</html>
